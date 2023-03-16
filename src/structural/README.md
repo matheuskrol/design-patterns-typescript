@@ -1,0 +1,1 @@
+Padrões de projeto de estrutura (Structural Patterns)
